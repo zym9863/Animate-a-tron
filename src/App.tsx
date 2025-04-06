@@ -75,8 +75,8 @@ function App() {
           ref={setPreviewElement}
           className={`preview-box ${isAnimating ? 'animating' : ''}`}
         >
-          <img src="src/assets/animation-concept-1.png" alt="Animation Concept 1" className="preview-image" />
-          <img src="src/assets/motion-graphics-2.png" alt="Motion Graphics 2" className="preview-image" />
+          <img src="/animation-concept-1.png" alt="Animation Concept 1" className="preview-image" />
+          <img src="/motion-graphics-2.png" alt="Motion Graphics 2" className="preview-image" />
         </div>
       </div>
 
