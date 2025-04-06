@@ -1,4 +1,4 @@
-import { CSSAnimation, AnimationCategory, easings } from './index'
+import { CSSAnimation, easings } from './index'
 
 // 入场动画集合
 export const entranceAnimations: CSSAnimation[] = [

@@ -1,4 +1,4 @@
-import { CSSAnimation, AnimationCategory, easings } from './index'
+import { CSSAnimation, easings } from './index'
 
 // 强调动画集合
 export const emphasisAnimations: CSSAnimation[] = [
